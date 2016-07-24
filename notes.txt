@@ -4,7 +4,12 @@ This is the main file.
 
 # Authors
 - Mike
+- Michael
 
-# Feature
-This is my feature branch.
-My Feature is finished.
+# Features
+
+## Feature-x
+This is feature x
+
+## Feature-y
+This is feature y
