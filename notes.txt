@@ -1,2 +1,6 @@
+# About
 This is my first commit.
 This is the main file.
+
+# Authors
+- Mike
